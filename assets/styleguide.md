@@ -1,27 +1,3 @@
-```yaml
-date: 2025-11-29
-tags:
-  - [#WritingStyleGuide, #Documentation, #Accessibility, #ContentCreation]
-  - [#WorkflowSteps, #PersonalReflection, #KnowledgeBaseMaintenance]
-glossary:
-  - Neurodivergence
-  - ADHD
-  - WCAG
-  - ISO 9001
-  - Systems Thinking
-  - PaxMesh
-  - Lived Experience Operatives
-  - GovAU Life Journeys
-```
-
-**Prompt (improved for universal readability):**
-
-> Please provide a clean Markdown version of the updated writing style guide.
-
----
-
-# Updated Writing Style Guide (Clean Markdown)
-
 # Writing Style Guide
 
 ## 1. Core Philosophy
@@ -132,7 +108,3 @@ glossary:
 * WCAG
 * ISO 9001
 
----
-
-**Next Step:**
-Confirm whether you'd like this exported as a standalone `.md` file for download.
